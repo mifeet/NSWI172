@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Úvod
+Vývoj software často znamená řešení problémů, které jsou komplexní, nepředvídatelné, a v měnícím se prostředí.
+Stačí si představit práci na NPRG023 Softwarovém projektu, kde pracujete na projektu souvisejícím s probíhajícím fakultním výzkumem (komplexnost),
+nevíte, kolik úsilí budou členové týmu moct projektu věnovat (nepředvídatelnost) a vedoucí v čase mění své požadavky (dynamické prostředí).
+V takovém případě budete pro dodání hodnotného výsledku a snížení rizika selhání potřebovat víc než jen přesný plán na rok dopředu.
 
-You can use the [editor on GitHub](https://github.com/mifeet/NSWI172/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Agilní přístup k vývoji software vznikl mimo jiné jako reakce na výše uvedené problémy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Cíl kurzu
+Agilní vývoj software se stává standardem v oboru (TODO: graf). Cílem kurzu je
 
-### Markdown
+* připravit studenty na budoucí týmovou práci v agilním prostředí,
+* zvednout produktivitu studentů měřenou hotnodou dodanou zákazníkovi nebo jiným "stakeholderům",
+* předat principy a praktiky agilního vývoje v praxi, ideálně prostřednictvím praktické zkušenosti.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Formou přednášek, aktivit nebo her, si studenti mohou jednotlivé přístupy a praktiky osvojit v praxi.
 
-# Header 1
-## Header 2
-### Header 3
+## Průběh kurzu
+**Důležité:** průběh kurzu se budeme snažit přizpůsobit možnostem přihlášených studentů.
+Praxe ukazuje, že znalosti tohoto typu se nelépe předávají při reálné týmové práci na společném projektu spíše než formou přednášek.
+Na druhou stranu nechceme od studentů vyžadovat časově náročnou práci na dalším projektu jen pro účely tohoto předmětu.
+**Proto bude na základě domluvy se studenty na začátku semestru probíhat kurz jednou z těchto variant:**
 
-- Bulleted
-- List
+* Kombinace přednášek, praktických "her" a případových studií z praxe.
+* Kombinace přednášek a týmové práce na reálném projektu. Tento projekt může být z jiného předmětu - např. Softwarový projekt nebo semestrální práce na jiný předmět (můžeme pomoct domluvit možnost týmového řešení s vyučujícím daného předmětu).
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Kurz je vhodný především pro studenty, kteří mají zkušenost s prací na netriviálním projektu, nejlépe týmovém, nebo na takovém projektu právě začínají pracovat.**
 
-[Link](url) and ![Image](src)
-```
+## Předběžný obsah
+Kurz se budeme snažit orientovat okolo základních principů agilního vývoje, mimo jiné (anglicky):
+	* Responding to change
+	* Iterative development, continuous value delivery
+	* Short feedback loops
+	* Face-to-face collaboration
+	* Empirical approach
+	* Continuous improvement
+	* Self-organization
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Na přednáškách se seznámíme s motivací pro agilní vývoj, populárními agilními metodikami (Kanban, Scrum, Extreme Programming) a souvisejícími inženýrskými praktikami (pairing, TDD, refactoring, ...), spoluprací v týmu i se zákazníkem.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mifeet/NSWI172/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
