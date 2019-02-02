@@ -1,16 +1,16 @@
 ## Úvod
 Vývoj software často znamená řešení problémů, které jsou komplexní, nepředvídatelné, a v měnícím se prostředí.
-Stačí si představit práci na NPRG023 Softwarovém projektu, kde pracujete na projektu souvisejícím s probíhajícím fakultním výzkumem (komplexnost),
-nevíte, kolik úsilí budou členové týmu moct projektu věnovat (nepředvídatelnost) a vedoucí v čase mění své požadavky (dynamické prostředí).
+Stačí si představit práci na _(NPRG023) Softwarovém projektu_, kde pracujete na software souvisejícím s probíhajícím fakultním výzkumem (komplexnost),
+nevíte, kolik úsilí budou členové týmu moci projektu věnovat (nepředvídatelnost) a vedoucí v čase mění své požadavky (dynamické prostředí).
 V takovém případě budete pro dodání hodnotného výsledku a snížení rizika selhání potřebovat víc než jen přesný plán na rok dopředu.
 
 Agilní přístup k vývoji software vznikl mimo jiné jako reakce na výše uvedené problémy.
 
 ## Cíl kurzu
-Agilní vývoj software se stává standardem v oboru (TODO: graf). Cílem kurzu je
+Agilní vývoj software se stává standardem v oboru. Cílem kurzu je
 
 * připravit studenty na budoucí týmovou práci v agilním prostředí,
-* zvednout produktivitu studentů měřenou hotnodou dodanou zákazníkovi nebo jiným "stakeholderům",
+* zvednout produktivitu studentů měřenou hotnodou dodanou zákazníkovi (obecně "stakeholderům"),
 * předat principy a praktiky agilního vývoje v praxi, ideálně prostřednictvím praktické zkušenosti.
 
 
@@ -28,15 +28,19 @@ Na druhou stranu nechceme od studentů vyžadovat časově náročnou práci na 
 
 **Kurz je vhodný především pro studenty, kteří mají zkušenost s prací na netriviálním projektu, nejlépe týmovém, nebo na takovém projektu právě začínají pracovat.**
 
+#### Odkazy
+* [Stránka předmětu v SISu](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI172)
+* [Vyučující](http://www.ksi.mff.cuni.cz/en/~michelfeit)
+
 ## Předběžný obsah
 Kurz se budeme snažit orientovat okolo základních principů agilního vývoje, mimo jiné (anglicky):
-	* Responding to change
-	* Iterative development, continuous value delivery
-	* Short feedback loops
-	* Face-to-face collaboration
-	* Empirical approach
-	* Continuous improvement
-	* Self-organization
+* Responding to change
+* Iterative development, continuous value delivery
+* Short feedback loops
+* Face-to-face collaboration
+* Empirical approach
+* Continuous improvement
+* Self-organization
 
 Na přednáškách se seznámíme s motivací pro agilní vývoj, populárními agilními metodikami (Kanban, Scrum, Extreme Programming) a souvisejícími inženýrskými praktikami (pairing, TDD, refactoring, ...), spoluprací v týmu i se zákazníkem.
 
