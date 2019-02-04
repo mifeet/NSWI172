@@ -34,9 +34,11 @@ Na druhou stranu nechceme od studentů vyžadovat časově náročnou práci na 
 
 **Kurz je vhodný především pro studenty, kteří mají zkušenost s prací na netriviálním projektu, nejlépe týmovém, nebo na takovém projektu právě začínají pracovat.**
 
-#### Odkazy
+#### Další informace
 * [Stránka předmětu v SISu](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI172)
 * [Vyučující](http://www.ksi.mff.cuni.cz/en/~michelfeit)
+
+S jakýmikoli dotazy k předmětu (organizace, obsah, čas konání, ...) se, prosím, obracejte na [vyučujícího](http://www.ksi.mff.cuni.cz/en/~michelfeit).
 
 ## Předběžný obsah
 Kurz se budeme snažit orientovat okolo základních principů agilního vývoje, mimo jiné (anglicky):
