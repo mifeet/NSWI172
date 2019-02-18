@@ -1,3 +1,6 @@
+
+> ⚠️ Předmětu zatím nebyl přidělený slot v rozvrhu. Na nápravě se pracuje. Pokud máte nějak silné preference ohledně času výuky, můžete napsat [vyučujícímu](http://www.ksi.mff.cuni.cz/en/~michelfeit).
+
 Vývoj software často znamená řešení problémů, které jsou komplexní, nepředvídatelné a v měnícím se prostředí.
 Stačí si představit práci na _(NPRG023) Softwarovém projektu_, kde pracujete na software souvisejícím s probíhajícím fakultním výzkumem (komplexnost),
 nevíte, kolik úsilí budou členové týmu moci projektu věnovat (nepředvídatelnost), a vedoucí v čase mění své požadavky (dynamické prostředí).
