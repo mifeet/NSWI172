@@ -1,5 +1,6 @@
 
 > ⚠️ Předmětu zatím nebyl přidělený slot v rozvrhu. Na nápravě se pracuje. Pokud máte nějak silné preference ohledně času výuky, můžete napsat [vyučujícímu](http://www.ksi.mff.cuni.cz/en/~michelfeit).
+
 > ⚠️ První týden v semestru pravděpodobně proběhne úvodní přednáška, kde představíme obsah a motivaci předmětu a domluvíme se na průběhu semestru pro studenty. 
 > Od druhého týdne začne běžná výuka. Třetí týden pravděpodobně odpadne z důvodu nepřítomnosti vyučujícího.
 
