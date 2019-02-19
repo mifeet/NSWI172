@@ -1,5 +1,7 @@
 
-> ⚠️ Předmětu zatím nebyl přidělený slot v rozvrhu. Na nápravě se pracuje. 
+> ⚠️ Z důvodu zpožděného přidělení slotu v rozvrhu bude první přednáška až druhý týden v semestru (26.2.)
+
+> Kurz bude probíhat každé úterý od 15:40 v SW1
 
 
 Vývoj software často znamená řešení problémů, které jsou komplexní, nepředvídatelné a v měnícím se prostředí.
