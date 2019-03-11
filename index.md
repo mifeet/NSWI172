@@ -1,8 +1,4 @@
-
-> ⚠️ Z důvodu zpožděného přidělení slotu v rozvrhu bude první přednáška až druhý týden v semestru (26.2.)
-
-> Kurz bude probíhat každé úterý od 15:40 v SW1
-
+> Příští cvičení bude v úterý 12.3. od 15:40 v SW1
 
 Vývoj software často znamená řešení problémů, které jsou komplexní, nepředvídatelné a v měnícím se prostředí.
 Stačí si představit práci na _(NPRG023) Softwarovém projektu_, kde pracujete na software souvisejícím s probíhajícím fakultním výzkumem (komplexnost),
@@ -27,12 +23,11 @@ Praxe ukazuje, že znalosti tohoto typu se nelépe předávají při reálné t�
 Na druhou stranu nechceme od studentů vyžadovat časově náročnou práci na dalším projektu jen pro účely tohoto předmětu.
 **Proto bude na základě domluvy se studenty na začátku semestru probíhat kurz jednou z těchto variant:**
 
-* Kombinace přednášek, praktických "her" a případových studií z praxe.
-* Kombinace přednášek a týmové práce na reálném projektu.
-  Tento projekt může být z jiného předmětu - např. Softwarový projekt nebo semestrální práce na jiný předmět (můžeme pomoct domluvit možnost týmového řešení práce s vyučujícím daného předmětu).
+* Kombinace přednášek, praktických "her" a případových studií z praxe (podobně jako loňský seminář "Agilní hry").
+* ~~Kombinace přednášek a týmové práce na reálném projektu.  Tento projekt může být z jiného předmětu - např. Softwarový projekt nebo semestrální práce na jiný předmět (můžeme pomoct domluvit možnost týmového řešení práce s vyučujícím daného předmětu).~~
 
 
-**Kurz je vhodný především pro studenty, kteří mají zkušenost s prací na netriviálním projektu, nejlépe týmovém, nebo na takovém projektu právě začínají pracovat.**
+Kurz je vhodný především pro studenty, kteří mají zkušenost s prací na netriviálním projektu, nejlépe týmovém, nebo na takovém projektu právě začínají pracovat.
 
 #### Další informace
 * [Stránka předmětu v SISu](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI172)
@@ -42,15 +37,11 @@ S jakýmikoli dotazy k předmětu (organizace, obsah, čas konání, ...) se, pr
 
 ## Předběžný obsah
 Kurz se budeme snažit orientovat okolo základních principů agilního vývoje, mimo jiné (anglicky):
-* _Heart of Agile_: Collaborate, Deliver, Reflect, Improve
-* Responding to change
-* Iterative development, continuous value delivery
-* Short feedback loops
-* Face-to-face collaboration
-* Empirical approach
-* Continuous improvement
-* Self-organization
-* Technical excellence
+* Why should I care?
+* Core Agile Values
+* Experiment &amp; Learn Rapidly, eXtreme Programming
+* Deliver Value Continuously, Scrum
+* Reflect &amp; Improve, Kanban
+* Collaborate, Highly-effective teams, Modern Agile
 
-Na přednáškách se seznámíme s motivací pro agilní vývoj, principy a hodnotami, populárními agilními metodikami (Kanban, Scrum, Extreme Programming), souvisejícími inženýrskými praktikami (pairing, TDD, refactoring, ...), spoluprací v týmu i se zákazníkem.
 
