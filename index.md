@@ -1,5 +1,3 @@
-> Příští cvičení bude v úterý 26.3. od 15:40 v SW1
-
 Vývoj software často znamená řešení problémů, které jsou komplexní, nepředvídatelné a v měnícím se prostředí.
 Stačí si představit práci na _(NPRG023) Softwarovém projektu_, kde pracujete na software souvisejícím s probíhajícím fakultním výzkumem (komplexnost),
 nevíte, kolik úsilí budou členové týmu moci projektu věnovat (nepředvídatelnost), a vedoucí v čase mění své požadavky (dynamické prostředí).
